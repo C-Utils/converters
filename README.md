@@ -6,7 +6,7 @@ You may check this readme for available converter utility.
 
 ## Updates
 
-05/10/2019 - Initial Commit of this Readme
+05/10/2019 - Initial Commit 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
